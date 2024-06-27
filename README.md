@@ -16,8 +16,8 @@ Ensure you have Python 3.7 or higher installed.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/Learny.git
-    cd Learny
+    git clone https://github.com/n4jdev/learny.git
+    cd learny
     ```
 
 2. Install the required packages using `pip`:
