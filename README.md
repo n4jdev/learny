@@ -39,4 +39,12 @@ Ensure you have Python 3.7 or higher installed.
 
 Run the Streamlit application:
 ```bash
-streamlit run learny.py
+streamlit run learny.py```
+
+Open your web browser and go to `http://localhost:8501` to use the application.
+
+## Contributing
+Contributions are welcome! Please fork this repository and submit pull requests.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
