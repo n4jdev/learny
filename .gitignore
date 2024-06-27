@@ -1,0 +1,4 @@
+# Ignore the actual .env file to prevent API keys from being committed
+.env
+__pycache__/
+*.pyc
